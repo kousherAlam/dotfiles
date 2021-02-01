@@ -24,7 +24,7 @@ This very good idea i learned from this video https://youtu.be/r_MpUP6aKiQ
   - xcode 
   
 
-## Include configuration for 
+## Include configuration for (symlink)
 - git configuration 
 - vscode configuration 
 - bash configuration 
